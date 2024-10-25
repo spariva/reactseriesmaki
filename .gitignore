@@ -128,3 +128,20 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# gitignoreio react
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+react/react1/node_modules
+react/ejemplosreact/node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
